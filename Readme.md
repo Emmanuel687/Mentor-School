@@ -16,23 +16,21 @@ HTML
 CSS
 PHP
 JS
-Installation
+
+# Installation
 To install this website, clone the repository and then run the following commands:
 
-Code snippet
-composer install
-php artisan serve
-Use code with caution. Learn more
+Open with liveserver
 The website will then be available at http://localhost:8000.
 
-Usage
+# Usage
 The website is easy to use. To navigate to a different page, simply click on the link in the navigation bar. To contact the school, fill out the form on the contact page. To read the latest news, visit the news page.
 
-Contributing
+# Contributing
 If you would like to contribute to this website, please fork the repository and then submit a pull request.
 
-License
+# License
 This website is licensed under the MIT License.
 
-Contact
-If you have any questions or feedback, please contact me at [email protected]
+# Contact
+If you have any questions or feedback, please contact me at koechemmanuel2002@gmail.com
